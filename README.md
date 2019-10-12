@@ -1,7 +1,7 @@
 [![Issues](https://img.shields.io/github/issues/digitalcrm/LaraveAPI?style=plastic&logo=appveyor)](https://github.com/digitalcrm/LaraveAPI/issues)
 [![Stars](https://img.shields.io/github/stars/digitalcrm/LaraveAPI?style=plastic&logo=appveyor)](https://github.com/digitalcrm/LaraveAPI/stargazers)
 
-# LaraveAPI
+# Laravel API
 make Laravel-passport-API
 # Laravel passport 
 What is Passport?
