@@ -7,12 +7,6 @@ Laravel makes API authentication a breeze using Laravel Passport, which provides
 for your Laravel application development in a matter of minutes.
 
 ### You have to just follow a few steps to get following web services
-##### Login API
-##### Register API
-##### Details API
-
-
-
 
 ## Getting Started
 ### Step 1: Install Package
