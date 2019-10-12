@@ -1,3 +1,6 @@
+[![Issues](https://img.shields.io/github/issues/digitalcrm/LaraveAPI?style=plastic&logo=appveyor)](https://github.com/digitalcrm/LaraveAPI/issues)
+[![Stars](https://img.shields.io/github/issues/digitalcrm/LaraveAPI?style=plastic&logo=appveyor)](https://github.com/digitalcrm/LaraveAPI/stargazers)
+
 # LaraveAPI
 make Laravel-passport-API
 # Laravel passport 
@@ -6,7 +9,7 @@ APIs typically use tokens to authenticate users and do not maintain session stat
 Laravel makes API authentication a breeze using Laravel Passport, which provides a full OAuth2 server implementation 
 for your Laravel application development in a matter of minutes.
 
-### You have to just follow a few steps to get following web services
+### Just follow a few steps to get following web services
 
 ## Getting Started
 ### Step 1: Install Package
