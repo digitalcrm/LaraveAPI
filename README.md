@@ -1,5 +1,5 @@
 [![Issues](https://img.shields.io/github/issues/digitalcrm/LaraveAPI?style=plastic&logo=appveyor)](https://github.com/digitalcrm/LaraveAPI/issues)
-[![Stars](https://img.shields.io/github/issues/digitalcrm/LaraveAPI?style=plastic&logo=appveyor)](https://github.com/digitalcrm/LaraveAPI/stargazers)
+[![Stars](https://img.shields.io/github/stars/digitalcrm/LaraveAPI?style=plastic&logo=appveyor)](https://github.com/digitalcrm/LaraveAPI/stargazers)
 
 # LaraveAPI
 make Laravel-passport-API
